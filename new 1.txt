@@ -1,0 +1,7 @@
+opencv-python
+flask
+gunicorn
+torch
+pillow
+torchvision
+scipy
